@@ -1,0 +1,27 @@
+print Testing Print Statements.
+loop 4
+print This is looped 4 times.
+end
+print hello
+variable abcdefg = Hello
+variable variable2 = World!
+print abcdefg variable2
+variable vari = input Please enter an input
+print Your input is: vari
+variable character = input Enter a singular character
+loop 3
+comment loops 3 times
+print character
+print character character
+comment comment testing
+print character character character
+print character character character character
+print character character character character character
+print character character character character
+print character character character
+print character character
+print character
+end
+comment takes input and says hi
+variable input5 = input What is your name
+print Hello input5
